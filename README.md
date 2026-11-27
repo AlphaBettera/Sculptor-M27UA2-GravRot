@@ -1,7 +1,7 @@
 # Sculptor-M27UA2-GravRot
 Sculptor M27UA2智慧屏重力旋转修正
 
-GravRot —— SCULPTOR M27UA2 重力旋转修正
+GravRot —— SCULPTOR M27UA2 智慧屏重力旋转修正
 ==========================================
 
 背景
